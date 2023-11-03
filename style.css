@@ -1,0 +1,43 @@
+.big-box
+{
+    width: 60rem;
+    height: auto ;   
+    border: 2px solid black;
+    border-color: #5d8cbf;
+}
+body ,h1{
+    display: flex;
+    justify-content: center;
+    color: #5d8cbf;
+
+    
+}
+
+h1{
+    font-size: 5rem;
+}
+#input
+{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+input
+{
+    width: 20rem;
+    height: 4rem;
+    font-size: 2rem;
+    color: #5d8cbf;
+}
+
+li{
+    font-size: 2rem;
+}
+
+body
+{
+    background-color: #D2E0FB;
+    
+}
